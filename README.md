@@ -27,7 +27,7 @@ I am a **3rd‑year Software Engineering & Computer Science undergraduate** pass
 - Mobile Application Development  
 - Full‑Stack Engineering  
 - IoT & Robotics  
-- Cloud Computing & Scalable Systems  
+    
 
 #### 📫 Connect With Me
 - LinkedIn:
