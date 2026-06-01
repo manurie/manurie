@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Manurie
 
-I am a **3rd‑year Software Engineering & Computer Science undergraduate** passionate about building scalable, reliable, and impactful systems.Focused on driving innovation through structured thinking, system design, and practical engineering approaches.
-
+I am passionate about building scalable, reliable, and impactful systems — innovating through structured design and practical engineering
 #### 🛠️ Skills & Technologies
 - **Programming & Development**
   - Python, Java, Kotlin, Dart (Flutter), C++
