@@ -29,7 +29,7 @@ I am passionate about building scalable, reliable, and impactful systems — inn
     
 
 #### 📫 Connect With Me
-- LinkedIn:
-- GitHub: 
+- LinkedIn: www.linkedin.com/in/manuri-abeywickrama-siriwardena-56767535a
+- GitHub: https://github.com/manurie
 
 
