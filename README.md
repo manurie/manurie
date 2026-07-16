@@ -22,9 +22,11 @@ I am passionate about building scalable, reliable, and impactful systems — inn
   - Technological Innovation & System Architecture
 
 #### 🚀 Interests
-- Machine Learning 
-- Mobile Application Development  
+
 - Full‑Stack Engineering  
+- Machine Learning 
+- Mobile Application Development
+- Web Development
 - IoT & Robotics  
     
 
