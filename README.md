@@ -4,7 +4,7 @@ I am passionate about building scalable, reliable, and impactful systems — inn
 #### 🛠️ Skills & Technologies
 - **Programming & Development**
   - Python, Java,JavaScript, Kotlin, Dart (Flutter), C++
-  - Java Swing (JFrame), Spring Boot, Spring Security
+  - Java Swing (JFrame), Spring Boot
   - REST APIs, Node.js, Express.js, React.js
 - **Databases**
   - MySQL, Oracle, MongoDB
