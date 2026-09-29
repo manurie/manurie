@@ -1,6 +1,10 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Manurie
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/manurie/manurie/main/octocat-1790713923572.png" alt="Octocat" width="200"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&height=45&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Web+%26+Mobile+App+Developer;Innovator;IoT%2FAI+Enthusiast;Learner;Feel+Free+to+Look+Around+👀">
 </p>
 
@@ -61,10 +65,6 @@ I am passionate about building scalable, reliable, and impactful systems — inn
 #### 📫 Connect With Me
 
 - GitHub: https://github.com/manurie
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manurie/manurie/output/snake.svg" alt="Snake animation" />
-</p>
 
 
 
