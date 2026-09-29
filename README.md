@@ -26,6 +26,9 @@ I am passionate about building scalable, reliable, and impactful systems — inn
   - Robotics Systems Design, IoT Solutions
   - Technological Innovation & System Architecture
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
 #### 🚀 Interests
 
 - Full‑Stack Engineering  
@@ -58,5 +61,8 @@ I am passionate about building scalable, reliable, and impactful systems — inn
 #### 📫 Connect With Me
 
 - GitHub: https://github.com/manurie
+
+
+
 
 
