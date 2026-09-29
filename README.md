@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Manurie
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Manurie
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&height=45&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Web+%26+Mobile+App+Developer;Innovator;IoT%2FAI+Enthusiast;Learner;Feel+Free+to+Look+Around+👀">
