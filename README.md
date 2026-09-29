@@ -1,4 +1,4 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Manurie
+## Hi, I'm Manurie
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manurie/manurie/main/octocat-1790713923572.png" alt="Octocat" width="200"/>
@@ -33,7 +33,7 @@ I am passionate about building scalable, reliable, and impactful systems — inn
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-#### 🚀 Interests
+#### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <b> Interests </b>
 
 - Full‑Stack Engineering  
 - Machine Learning 
