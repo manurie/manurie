@@ -1,9 +1,7 @@
 ### 👋 Hi, I'm Manurie
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&height=45&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Web+%26+Mobile+App+Developer;Innovator;IoT%2FAI+Enthusiast;Learner;Feel+Free+to+Look+Around+👀">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&height=45&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;Web+%26+Mobile+App+Developer;Innovator;IoT%2FAI+Enthusiast;Learner;Feel+Free+to+Look+Around+👀">
 </p>
 
 
