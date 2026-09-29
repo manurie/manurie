@@ -62,6 +62,9 @@ I am passionate about building scalable, reliable, and impactful systems — inn
 
 - GitHub: https://github.com/manurie
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manurie/manurie/output/snake.svg" alt="Snake animation" />
+</p>
 
 
 
