@@ -32,7 +32,25 @@ I am passionate about building scalable, reliable, and impactful systems — inn
 - Machine Learning 
 - Mobile Application Development
 - Web Development
-- IoT & Robotics  
+- IoT & Robotics
+
+  </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<p align="center">
+
+   <p align="center">
+<a href="https://github.com/manurie">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manurie&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manurie&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/manurie">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Manuri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=manurie&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
     
 
 #### 📫 Connect With Me
