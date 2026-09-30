@@ -65,11 +65,11 @@ I am passionate about building scalable, reliable, and impactful systems — inn
     </a>
 </p>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 #### 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 <a>
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
