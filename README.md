@@ -71,7 +71,7 @@ I am passionate about building scalable, reliable, and impactful systems — inn
 #### 📫 Connect With Me
 
 <p align="center">
-<a href="www.linkedin.com/in/manuri-abeywickrama-siriwardena">
+<a href="https://www.linkedin.com/in/manuri-abeywickrama-siriwardena">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="https://github.com/manurie" target="blank">
